@@ -297,6 +297,7 @@ code, pre {
 
 .showcase-text {
     animation: slideInFromTop 1s ease-in;
+    padding: 2rem
 }
   .cli .grid > *:first-child {
     grid-column: 1;
